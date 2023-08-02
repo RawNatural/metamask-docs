@@ -3,6 +3,8 @@ description: Enable your dapp to interact with smart contracts.
 sidebar_position: 3
 ---
 
+Can you please add an example of interacting with a contract's method. Eg. a send request to a custom method. Thanks
+
 # Interact with smart contracts
 
 To interact with a smart contract, your dapp needs the contract's:
